@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimatorProject.iml" filepath="$PROJECT_DIR$/AnimatorProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animatorlistener/animatorlistener.iml" filepath="$PROJECT_DIR$/animatorlistener/animatorlistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frameanimation/frameanimation.iml" filepath="$PROJECT_DIR$/frameanimation/frameanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutanimation/layoutanimation.iml" filepath="$PROJECT_DIR$/layoutanimation/layoutanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectanimator/objectanimator.iml" filepath="$PROJECT_DIR$/objectanimator/objectanimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/particleanimation/particleanimation.iml" filepath="$PROJECT_DIR$/particleanimation/particleanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tweenanimation/tweenanimation.iml" filepath="$PROJECT_DIR$/tweenanimation/tweenanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valueanimator/valueanimator.iml" filepath="$PROJECT_DIR$/valueanimator/valueanimator.iml" />
+    </modules>
+  </component>
+</project>

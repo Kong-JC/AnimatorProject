@@ -1,0 +1,1 @@
+include ':app', ':animatorlistener', ':frameanimation', ':layoutanimation', ':objectanimator', ':particleanimation', ':tweenanimation', ':valueanimator'
